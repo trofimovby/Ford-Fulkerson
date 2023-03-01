@@ -26,7 +26,7 @@ _*Важно отметить, что алгоритм Форда-Фалкерс
 
 ## Задача:
 
-Задание мы ![возьмём с предыдущего раза](https://github.com/trofimovby/Dijkstra_algorithms/blob/main/README.md)
+Задание мы [возьмём с предыдущего раза](https://github.com/trofimovby/Dijkstra_algorithms/blob/main/README.md)
 
 
 
